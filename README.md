@@ -6,4 +6,4 @@ It's built using React Native, code written in snack, and Expo was also used in 
 
  snack: https://snack.expo.dev/@jeffreysmithdev/github.com-jeffrey-s-smith-401d50-lab41
 
- ![QR]('img/expogo-QR.jpg')
+ [QR]('img/expogo-QR.jpg')
