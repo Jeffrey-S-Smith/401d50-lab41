@@ -3,6 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 
 import CalcKeys from "./components/CalcKeys.js";
 import OperatorKeys from "./components/OperatorKeys.js";
+import Speech from "./components/Speech.js";
 
 export default class App extends React.Component {
   constructor(props){
